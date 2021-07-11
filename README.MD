@@ -1,3 +1,3 @@
-Hello Word com Git
-Minhas considerações sobre o treinamento até o momento:
-Estou gostando bastante do conteúdo.
+<h1 align="center">
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src=".cover-linkedin.png" />
+</h1>
